@@ -29,8 +29,4 @@ public class Filial extends GenericEntity<Long> {
 
     @Column
     private EnumTipoFilial tipoFilial;
-
-    @OneToMany(mappedBy = "filialId")
-    private List<Produto> produtos;
-
 }

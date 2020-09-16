@@ -1,4 +1,5 @@
 com/rns/testes/java/service/IGenericService.class
+com/rns/testes/java/service/impl/ArmazemService.class
 com/rns/testes/java/dto/mapper/FilialMapperImpl.class
 com/rns/testes/java/model/GenericEntity.class
 com/rns/testes/java/dto/mapper/ProdutoMapperImpl.class
@@ -6,14 +7,17 @@ com/rns/testes/java/dao/IFilialDao.class
 com/rns/testes/java/dto/mapper/FilialMapper.class
 com/rns/testes/java/model/Filial.class
 com/rns/testes/java/JavaApplication.class
+com/rns/testes/java/model/Armazem.class
 com/rns/testes/java/controller/FilialController.class
 com/rns/testes/java/model/Produto.class
 com/rns/testes/java/service/AbstractGenericServicePersistence.class
 com/rns/testes/java/dto/ProdutoDto.class
 com/rns/testes/java/service/impl/FilialService.class
 com/rns/testes/java/dto/mapper/ProdutoMapper.class
+com/rns/testes/java/dao/IArmazemDao.class
 com/rns/testes/java/dao/IProdutoDao.class
 com/rns/testes/java/service/IProdutoService.class
+com/rns/testes/java/service/IArmazemService.class
 com/rns/testes/java/seeder/FilialSeeder.class
 com/rns/testes/java/dto/FilialDto.class
 com/rns/testes/java/seeder/ProdutoSeeder.class
@@ -21,4 +25,5 @@ com/rns/testes/java/dto/mapper/GenericMapper.class
 com/rns/testes/java/service/IFilialService.class
 com/rns/testes/java/enums/EnumTipoFilial.class
 com/rns/testes/java/service/impl/ProdutoService.class
+com/rns/testes/java/seeder/ArmazemSeeder.class
 com/rns/testes/java/controller/ProdutoController.class

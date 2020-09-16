@@ -15,7 +15,4 @@ public class Produto extends GenericEntity<String>{
     @Column
     private String nome;
 
-    @Column
-    private Long filialId;
-
 }
