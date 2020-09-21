@@ -10,6 +10,7 @@ import javax.persistence.*;
 @Data
 public class Armazem extends GenericEntity<Long> {
 
+
     @Id
     @GeneratedValue(generator = "ARMAZEM_SEQ", strategy = GenerationType.SEQUENCE)
     private Long id;

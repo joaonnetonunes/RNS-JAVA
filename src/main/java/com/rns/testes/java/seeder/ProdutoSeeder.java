@@ -41,19 +41,16 @@ public class ProdutoSeeder {
         Produto produto1 = new Produto();
         produto1.setId("Cod-Produto-1");
         produto1.setNome("Sal Grosso");
-
         service.save(produto1);
 
         Produto produto2 = new Produto();
         produto2.setId("Cod-Produto-2");
         produto2.setNome("Sal Moído Iodado");
-
         service.save(produto2);
 
         Produto produto3 = new Produto();
         produto3.setId("Cod-Produto-3");
         produto3.setNome("Sal Rosa do Himalaia");
-
         service.save(produto3);
 
         Produto produto4 = new Produto();
